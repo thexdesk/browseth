@@ -17,7 +17,7 @@
   "dependencies": {
     "@browseth/utils": "^2.1.0",
     "babel-runtime": "^6.26.0",
-    "big.js": "^5.1.2"
+    "big.js": "^5.2.2"
   },
   "publishConfig": {
     "access": "public"
